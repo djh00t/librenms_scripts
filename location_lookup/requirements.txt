@@ -1,0 +1,4 @@
+geopandas
+sqlalchemy
+pymysql
+python-dotenv
